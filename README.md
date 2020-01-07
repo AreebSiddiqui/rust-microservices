@@ -1,2 +1,2 @@
 # rust-microservices
-Building Microservices using Actix nd Rocket frameworks.
+Building Microservices using Actix and Rocket frameworks.
